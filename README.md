@@ -100,4 +100,5 @@ Selangor
 - Experience in developing e-commerce or payment applications
 - Knowledge of web push notifications, such as FCM and APN.
 
-## Sounds like a perfect job for you? Drop us a line and send your CV to hr-sa@razer.com.  
+# Contact Us  
+### Sounds like a perfect job for you? Drop us a line and send your CV to hr-sa@razer.com.  
